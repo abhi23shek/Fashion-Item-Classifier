@@ -72,6 +72,11 @@ The pre-trained model `fashion_model.h5` is a TensorFlow model trained on the Fa
 2. Train a neural network model using TensorFlow or Keras.
 3. Save the trained model in the `trained_model` directory.
 
+## Jupyter Notebook
+
+[https://colab.research.google.com/drive/1Rx52-9WvZ6JgS-CBoBa55L6HBc-bh-z8](https://colab.research.google.com/drive/1Rx52-9WvZ6JgS-CBoBa55L6HBc-bh-z8)
+
+
 ## Acknowledgments
 
 - The Fashion MNIST dataset: [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist)
