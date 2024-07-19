@@ -1,4 +1,4 @@
-```markdown
+
 # Fashion Item Classifier
 
 This project is a web application for classifying fashion items using a pre-trained model on the Fashion MNIST dataset. The application is built with Streamlit and TensorFlow.
